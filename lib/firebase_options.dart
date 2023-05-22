@@ -49,7 +49,22 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions android = FirebaseOptions("XXX");
+  static const FirebaseOptions android = FirebaseOptions(
+    apiKey: 'AIzaSyCaZaVVULQ-SlHrSKFMVA8n3OxNxsazViU',
+    appId: '1:440621674112:android:f817a382e2cf625fa0c065',
+    messagingSenderId: '440621674112',
+    projectId: 'sukip-ea642',
+    storageBucket: 'sukip-ea642.appspot.com',
+  );
 
-  static const FirebaseOptions ios = FirebaseOptions("XXX");
+  static const FirebaseOptions ios = FirebaseOptions(
+    apiKey: 'AIzaSyD8hizl64ndPNsSSpmo4EBlcfCw_ZarSR4',
+    appId: '1:440621674112:ios:bdc37a4565b176b1a0c065',
+    messagingSenderId: '440621674112',
+    projectId: 'sukip-ea642',
+    storageBucket: 'sukip-ea642.appspot.com',
+    iosClientId:
+        '440621674112-29h52bn5hmqfvq5sn0fbu63jgpiv0q33.apps.googleusercontent.com',
+    iosBundleId: 'com.example.sukip2',
+  );
 }
