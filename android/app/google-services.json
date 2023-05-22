@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440621674112",
+    "project_id": "sukip-ea642",
+    "storage_bucket": "sukip-ea642.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440621674112:android:f817a382e2cf625fa0c065",
+        "android_client_info": {
+          "package_name": "com.example.sukip2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440621674112-pu7f5hdtuc98b8e1f13pr9ta57snl6og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaZaVVULQ-SlHrSKFMVA8n3OxNxsazViU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440621674112-pu7f5hdtuc98b8e1f13pr9ta57snl6og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
